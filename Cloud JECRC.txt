@@ -24,3 +24,4 @@ type of user
 
 1.primary group
 2.secondary/supplimentry group
+*my name_________________ Anuj__________________;
