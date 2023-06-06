@@ -1,0 +1,26 @@
+***************************************DAY 3****************************************************
+
+1.redirect history's top 10 line in /tmp/his.txt
+
+2.redirect history's 2-5 lines in /temp/adhis.text
+
+3.cal sucess command output in sucess.txt file store error command output in 
+
+********************************Day 4**********************************************************
+type of shell
+1. sh 
+2.korn sh[ksh]
+3.sh
+4.bash
+
+==>>user managment
+type of user
+
+1.super user(root-user id 0)
+2.system user(suser id 1-999)
+3.regular user/local user(user id 1000-10000)
+
+==>Groups
+
+1.primary group
+2.secondary/supplimentry group
